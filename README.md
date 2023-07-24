@@ -1,10 +1,10 @@
 # ReactDjangoPortfolio
 
 ####  Use `` /admin `` to use django admin to edit the portfolio info use   ` python manage.py createsuperuser `  to create login details
-#### DEMO: http://wawerujames.herokuapp.com/
+#### DEMO: http://cheruiyot.akisolve.com/
 
 
-<kbd><img src="https://drive.google.com/uc?id=19fHCBzwyyzbHSfNPuFLuFDmLhgwsCe6-"  /></kbd>
+
 
 ## Run these Commads
 
